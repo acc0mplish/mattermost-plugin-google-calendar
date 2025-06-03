@@ -9,7 +9,7 @@ import (
 
 const (
 	ProviderGCal            = "gcal"
-	ProviderGCalDisplayName = "Google Calendar"
+	ProviderGCalDisplayName = "구글 캘린더"
 	ProviderGCalRepository  = "https://github.com/mattermost/mattermost-plugin-google-calendar"
 )
 
