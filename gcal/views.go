@@ -12,7 +12,7 @@ import (
 	"google.golang.org/api/option"
 
 	"github.com/acc0mplish/klic-mattermost-plugin-mscalendar/calendar/remote"
-	"github.com/mattermost/mattermost-plugin-mscalendar/calendar/utils"
+	"github.com/acc0mplish/klic-mattermost-plugin-mscalendar/calendar/utils"
 )
 
 const (
