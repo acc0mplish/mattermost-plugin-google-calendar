@@ -10,7 +10,7 @@ import (
 	"google.golang.org/api/calendar/v3"
 	"google.golang.org/api/option"
 
-	"github.com/mattermost/mattermost-plugin-mscalendar/calendar/remote"
+	"https://github.com/acc0mplish/klic-mattermost-plugin-mscalendar/calendar/remote"
 )
 
 // CreateCalendar creates a calendar
