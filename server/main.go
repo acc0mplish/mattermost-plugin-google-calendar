@@ -7,9 +7,9 @@ import (
 	mattermostplugin "github.com/mattermost/mattermost/server/public/plugin"
 
 	"github.com/mattermost/mattermost-plugin-google-calendar/gcal"
-	"github.com/mattermost/mattermost-plugin-mscalendar/calendar/config"
-	"github.com/mattermost/mattermost-plugin-mscalendar/calendar/engine"
-	"github.com/mattermost/mattermost-plugin-mscalendar/calendar/plugin"
+	"github.com/acc0mplish/klic-mattermost-plugin-mscalendar/calendar/config"
+	"github.com/acc0mplish/klic-mattermost-plugin-mscalendar/calendar/engine"
+	"github.com/acc0mplish/klic-mattermost-plugin-mscalendar/calendar/plugin"
 )
 
 var BuildHash string
