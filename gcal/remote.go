@@ -13,9 +13,9 @@ import (
 
 	"golang.org/x/oauth2/google"
 
-	"github.com/mattermost/mattermost-plugin-mscalendar/calendar/config"
-	"github.com/mattermost/mattermost-plugin-mscalendar/calendar/remote"
-	"github.com/mattermost/mattermost-plugin-mscalendar/calendar/utils/bot"
+	"github.com/acc0mplish/klic-mattermost-plugin-mscalendar/calendar/config"
+	"github.com/acc0mplish/klic-mattermost-plugin-mscalendar/calendar/remote"
+	"github.com/acc0mplish/klic-mattermost-plugin-mscalendar/calendar/utils/bot"
 )
 
 const Kind = "gcal"
