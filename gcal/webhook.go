@@ -6,7 +6,7 @@ package gcal
 import (
 	"net/http"
 
-	"github.com/mattermost/mattermost-plugin-mscalendar/calendar/remote"
+	"github.com/acc0mplish/klic-mattermost-plugin-mscalendar/calendar/remote"
 )
 
 type webhook struct {
