@@ -12,8 +12,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/mattermost/mattermost-plugin-mscalendar/calendar/config"
-	"github.com/mattermost/mattermost-plugin-mscalendar/calendar/utils/bot"
+	"github.com/acc0mplish/klic-mattermost-plugin-mscalendar/calendar/config"
+	"github.com/acc0mplish/klic-mattermost-plugin-mscalendar//calendar/utils/bot"
 	"github.com/pkg/errors"
 )
 
